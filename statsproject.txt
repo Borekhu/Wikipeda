@@ -1,0 +1,171 @@
+Denmark	88	0	europe	western europe
+New Zealand	88	2	oceania	oceania
+Finland	85	7	europe	western europe
+Singapore	85	6	asia	south east asia
+Sweden	85	0	europe	western europe
+Switzerland	85	1	europe	western europe
+Norway	84	5	europe	western europe
+Netherlands	82	1	europe	western europe
+Germany	80	3	europe	western europe
+Luxembourg	80	0	europe	western europe
+Australia	77	1	oceania	oceania
+United Kingdom	77	0	europe	western europe
+Austria	76	0	europe	western europe
+Belgium	76	1	europe	western europe
+Estonia	75	3	europe	eastern europe
+Iceland	75	1	europe	western europe
+Japan	74	0	asia	east asia
+United Arab Emirates	71	0	asia	middleast
+Uruguay	71	2	south america	latin america
+France	69	2	europe	western europe
+Bhutan	68	1	asia	southern asia
+Chile	67	4	south america	latin america
+United States	67	4	north america	North America
+Seychelles	66	1	africa	subsaharan africa
+Taiwan	65	3	asia	east asia
+Barbados	64	1	north america	caribbean
+Qatar	63	1	asia	middleast
+Spain	62	2	europe	western europe
+South Korea	61	5	asia	east asia
+Portugal	61	0	europe	western europe
+Botswana	60	2	africa	subsaharan africa
+Israel	60	0	asia	middleast
+Lithuania	60	5	europe	eastern europe
+Costa Rica	57	1	north america	latin america
+Cyprus	57	1	europe	middleast
+Latvia	57	1	europe	eastern europe
+Georgia	56	0	europe	middleast
+Saint Vincent and the Grenadines	59	0	north america	caribbean
+Poland	56	2	europe	eastern europe
+Saint Lucia	56	1	N/A	caribbean
+Dominica	55	1	north america	North America
+Oman	54	3	asia	middleast
+Rwanda	54	4	africa	subsaharan africa
+Grenada	53	0	north america	caribbean
+Italy	53	3	europe	western europe
+Malta	53	0	europe	western europe
+Mauritius	53	0	africa	subsaharan africa
+Saudi Arabia	53	10	asia	middleast
+Guinea-Bissau	19	0	africa	subsaharan africa
+Malaysia	51	3	asia	south east asia
+Namibia	51	2	africa	subsaharan africa
+Greece	50	3	europe	eastern europe
+Armenia	49	2	europe	middleast
+Jordan	49	2	asia	middleast
+Belarus	47	6	europe	eastern europe
+Croatia	47	5	europe	eastern europe
+Cuba	47	4	north america	caribbean
+São Tomé and Príncipe	47	4	africa	subsaharan africa
+Montenegro	45	4	europe	eastern europe
+Senegal	45	11	africa	subsaharan africa
+Bulgaria	44	20	europe	eastern europe
+Hungary	44	2	europe	eastern europe
+Jamaica	44	0	north america	caribbean
+Romania	44	13	europe	eastern europe
+South Africa	44	1	africa	subsaharan africa
+Tunisia	44	8	africa	middleast
+Ghana	43	15	africa	subsaharan africa
+Maldives	43	6	asia	southern asia
+Vanuatu	43	2	oceania	oceania
+Argentina	42	6	south america	latin america
+Bahrain	42	0	asia	middleast
+Kuwait	42	0	asia	middleast
+Solomon Islands	42	3	oceania	oceania
+Benin	41	2	africa	subsaharan africa
+Guyana	41	0	south america	latin america
+Lesotho	41	0	africa	subsaharan africa
+Burkina Faso	40	2	africa	subsaharan africa
+India	40	5	asia	southern asia
+Morocco	40	0	africa	middleast
+Colombia	39	2	south america	latin america
+Ecuador	39	2	south america	latin america
+Brazil	38	14	south america	latin america
+Ethiopia	38	4	africa	subsaharan africa
+Kazakhstan	38	11	europe	central asia
+Peru	38	4	south america	latin america
+Serbia	38	2	europe	eastern europe
+Sri Lanka	38	4	asia	southern asia
+Suriname	38	1	south america	latin america
+Tanzania	38	1	africa	subsaharan africa
+Indonesia	37	5	asia	south east asia
+Albania	36	1	europe	eastern europe
+Algeria	36	1	africa	middleast
+Ivory Coast	36	3	africa	subsaharan africa
+El Salvador	36	8	north america	latin america
+Kosovo	36	3	europe	eastern europe
+Thailand	36	1	asia	south east asia
+Vietnam	36	3	asia	south east asia
+Bosnia and Herzegovina	35	2	europe	eastern europe
+Mongolia	35	1	asia	east asia
+Macedonia	35	0	europe	eastern europe
+Panama	35	5	north america	latin america
+Moldova	34	2	europe	eastern europe
+Philippines	34	9	asia	south east asia
+Egypt	33	7	africa	middleast
+Eswatini	33	0	africa	subsaharan africa
+Nepal	33	5	asia	southern asia
+Sierra Leone	33	9	africa	subsaharan africa
+Ukraine	33	14	europe	eastern europe
+Zambia	33	6	africa	subsaharan africa
+Niger	32	4	africa	subsaharan africa
+Bolivia	31	3	south america	latin america
+Kenya	31	20	africa	subsaharan africa
+Kyrgyzstan	31	8	asia	central asia
+Mexico	31	5	north america	latin america
+Pakistan	31	5	asia	southern asia
+Azerbaijan	30	4	europe	middleast
+Gabon	30	3	africa	subsaharan africa
+Trinidad and Tobago	40	2	north america	caribbean
+Malawi	30	8	africa	subsaharan africa
+Mali	30	1	africa	subsaharan africa
+Russia	30	17	asia	eastern europe
+Laos	29	0	asia	south east asia
+Mauritania	29	1	africa	subsaharan africa
+Togo	29	3	africa	subsaharan africa
+Dominican Republic	28	4	north america	caribbean
+Guinea	28	3	africa	subsaharan africa
+Liberia	28	17	africa	subsaharan africa
+Myanmar	28	6	N/A	south east asia
+Paraguay	28	2	south america	latin america
+Angola	27	8	africa	subsaharan africa
+China	42	4	asia	east asia
+Slovenia	60	1	europe	eastern europe
+Djibouti	27	0	africa	subsaharan africa
+Papua New Guinea	27	4	oceania	oceania
+Uganda	27	16	africa	subsaharan africa
+Bangladesh	26	19	asia	southern asia
+Central African Republic	26	1	N/A	subsaharan africa
+Uzbekistan	26	9	asia	central asia
+Cameroon	25	16	africa	subsaharan africa
+Guatemala	25	7	north america	latin america
+Iran	25	4	asia	southern asia
+Lebanon	25	3	asia	middleast
+Madagascar	25	7	africa	subsaharan africa
+Mozambique	25	12	africa	subsaharan africa
+Nigeria	25	18	africa	subsaharan africa
+Tajikistan	25	2	asia	central asia
+Honduras	24	0	north america	latin america
+Zimbabwe	24	4	africa	subsaharan africa
+Nicaragua	22	6	north america	latin america
+Cambodia	21	18	asia	south east asia
+Chad	21	7	africa	subsaharan africa
+Comoros	21	0	africa	subsaharan africa
+Turkey	40	1	europe	middleast
+Eritrea	21	0	africa	subsaharan africa
+Iraq	21	8	asia	middleast
+Afghanistan	19	4	asia	southern asia
+Burundi	19	2	africa	subsaharan africa
+Turkmenistan	19	2	asia	central asia
+Democratic Republic of the Congo	18	15	N/A	subsaharan africa
+Haiti	18	11	north america	caribbean
+North Korea	18	0	N/A	east asia
+Libya	17	0	africa	middleast
+Equatorial Guinea	16	2	africa	subsaharan africa
+Sudan	16	6	africa	subsaharan africa
+Canada	77	1	north america	North America
+Slovakia	49	2	europe	eastern europe
+Venezuela	15	22	south america	latin america
+Yemen	15	7	asia	middleast
+Syria	14	2	asia	middleast
+Somalia	12	5	africa	subsaharan africa
+South Sudan	12	1	africa	subsaharan africa
