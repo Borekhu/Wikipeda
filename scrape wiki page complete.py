@@ -6,11 +6,11 @@ import wikipedia as wk
 from tqdm import tqdm
 
 # Import table of country | url
-links_dataframe = pd.read_csv("/Users/katlosiyandamohutsiwa/Downloads/country wikiurl.csv",sep="\t")
+links_dataframe = pd.read_csv("country wikiurl.csv",sep="\t")
 links_dataframe["url"] = links_dataframe["url"].apply(lambda x: x.replace("'",""))
 
 # Load country list
-links_dataframe = pd.read_csv("/Users/katlosiyandamohutsiwa/Downloads/country wikiurl.csv", sep="\t")
+links_dataframe = pd.read_csv("country wikiurl.csv", sep="\t")
 links_dataframe["url"] = links_dataframe["url"].apply(lambda x: x.replace("'", ""))
 
 # Set language
